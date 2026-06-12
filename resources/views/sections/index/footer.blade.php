@@ -25,7 +25,6 @@
         <!-- Version desktop  -->
         <div class="hidden lg:flex items-start justify-between gap-6 xl:gap-8 mb-6">
 
-            <!-- Colonne gauche  -->
             <div class="flex flex-col gap-8" style="width:200px; flex-shrink:0;">
                 <div class="flex items-center">
                     <img src="{{ asset('images/footer/logo.png') }}"
@@ -65,7 +64,6 @@
                 </div>
             </div>
 
-            <!-- Liens centraux  -->
             <div class="flex items-start justify-between gap-8 xl:gap-14">
                 <div class="flex flex-col gap-3">
                     <h3 class="text-4.5 sm:text-5 font-bold text-white mb-1">Entreprise</h3>

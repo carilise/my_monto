@@ -15,7 +15,7 @@
 
     @include('sections.index.points-forts')
     @include('sections.index.pourquoi-myMonto')
-    @include('sections.index.myMonto-cest')
+    @include('sections.index.stats')
     @include('sections.index.Toujours-a-vos-cotes')
     @include('sections.index.retour-utilisateurs')
     @include('sections.index.faq')

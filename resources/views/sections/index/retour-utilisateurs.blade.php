@@ -1,6 +1,6 @@
 <section
     class="relative overflow-hidden 2xl:container mx-auto py-12 sm:py-16 lg:py-20 px-4 md:px-8 bg-cover bg-center bg-no-repeat"
-    style="background-image: url('{{ asset('images/backUtilisateur.png') }}');">
+    style="background-image: url('{{ asset('images/retour_utilisateur/backUtilisateur.png') }}');">
     <div class=" lg:px-[80px]">
 
         <!-- En-tête  -->
@@ -33,7 +33,7 @@
             <div class="bg-white rounded-lg shadow-sm p-4 sm:p-6 border border-gray-100 hover:shadow-md transition-shadow duration-300">
                 <div class="flex items-center gap-3 mb-4">
                     <img
-                        src="{{ asset('images/estelle.jpg') }}"
+                        src="{{ asset('images/retour_utilisateur/estelle.jpg') }}"
                         alt="Estelle"
                         class="w-10 h-10 sm:w-12 sm:h-12 rounded-full object-cover">
                     <div>
@@ -50,7 +50,7 @@
             <div class="bg-white rounded-lg shadow-sm p-4 sm:p-6 border border-gray-100 hover:shadow-md transition-shadow duration-300">
                 <div class="flex items-center gap-3 mb-4">
                     <img
-                        src="{{ asset('images/edouard.jpg') }}"
+                        src="{{ asset('images/retour_utilisateur/edouard.jpg') }}"
                         alt="Edouard VIGNON"
                         class="w-10 h-10 sm:w-12 sm:h-12 rounded-full object-cover">
                     <div>
@@ -67,7 +67,7 @@
             <div class="bg-white rounded-lg shadow-sm p-4 sm:p-6 border border-gray-100 hover:shadow-md transition-shadow duration-300">
                 <div class="flex items-center gap-3 mb-4">
                     <img
-                        src="{{ asset('images/herve.jpg') }}"
+                        src="{{ asset('images/retour_utilisateur/herve.jpg') }}"
                         alt="Hervé ETTOLE"
                         class="w-10 h-10 sm:w-12 sm:h-12 rounded-full object-cover">
                     <div>
@@ -84,7 +84,7 @@
             <div class="bg-white rounded-lg shadow-sm p-4 sm:p-6 border border-gray-100 hover:shadow-md transition-shadow duration-300">
                 <div class="flex items-center gap-3 mb-4">
                     <img
-                        src="{{ asset('images/martine.jpg') }}"
+                        src="{{ asset('images/retour_utilisateur/martine.jpg') }}"
                         alt="Martine TEVISSOU"
                         class="w-10 h-10 sm:w-12 sm:h-12 rounded-full object-cover">
                     <div>
@@ -101,7 +101,7 @@
             <div class="bg-white rounded-lg shadow-sm p-4 sm:p-6 border border-gray-100 hover:shadow-md transition-shadow duration-300">
                 <div class="flex items-center gap-3 mb-4">
                     <img
-                        src="{{ asset('images/eve.jpg') }}"
+                        src="{{ asset('images/retour_utilisateur/eve.jpg') }}"
                         alt="Eve SOSSOU"
                         class="w-10 h-10 sm:w-12 sm:h-12 rounded-full object-cover">
                     <div>
@@ -118,7 +118,7 @@
             <div class="bg-white rounded-lg shadow-sm p-4 sm:p-6 border border-gray-100 hover:shadow-md transition-shadow duration-300">
                 <div class="flex items-center gap-3 mb-4">
                     <img
-                        src="{{ asset('images/david.png') }}"
+                        src="{{ asset('images/retour_utilisateur/david.png') }}"
                         alt="David EDA"
                         class="w-10 h-10 sm:w-12 sm:h-12 rounded-full object-cover">
                     <div>
