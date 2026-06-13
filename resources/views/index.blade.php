@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="bg-white overflow-x-hidden">
-    <div class="relative overflow-hidden">
+    <div class="relative ">
 
         <div class="">
 
